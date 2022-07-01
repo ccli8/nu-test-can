@@ -1,0 +1,5 @@
+.mbed
+.build/
+BUILD/
+mbed-os/
+mbed-os
